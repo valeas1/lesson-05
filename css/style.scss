@@ -5,6 +5,7 @@
 .body {
     font-family: 'Tahoma', sans-serif;
     font-style: normal;
+    font-weight: 400;
     font-size: 24px;
     line-height: 140%;
 
@@ -18,9 +19,9 @@
     background-image: url(../img/bg-header.jpg);
     background-repeat: no-repeat;
     background-position: top right;
+    padding-top: 33px;
     padding-bottom: 60px;
     .header {
-        padding-top: 33px;
         .logo {
             padding-bottom: 50px;
         }
@@ -56,9 +57,6 @@
             margin-bottom: 31px;
         }
         .main_text {
-            font-weight: 400;
-            font-size: 24px;
-            line-height: 140%;
             color: #D6D6D6;
             margin-bottom: 50px;
         }
@@ -72,7 +70,6 @@
             color: #FFFFFF;
             background: #F9B640;
             padding: 15px 52px;
-            margin-bottom: 31px;
         }
         .main_action {
             font-weight: 700;
@@ -81,7 +78,7 @@
             letter-spacing: 0.1em;
             text-transform: uppercase;
             color: #FAB63E;
-            margin-top: 45px;
+            margin-top: 55px;
         }
     }
 }
@@ -102,7 +99,6 @@
         padding: 40px 40px 10px 40px;
     }
     .seconnd-section_text {
-        font-weight: 400;
         font-size: 24px;
         line-height: 140%;
         color: #0B0B0B;
