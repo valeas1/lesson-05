@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding: 0;
 }
 .body {
     font-family: 'Tahoma', sans-serif;
@@ -112,7 +111,7 @@
 .third-section {
     background: url(../img/bg-section.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center top;
     padding-top: 67px;
     padding-bottom: 130px;
     .third-section_title {

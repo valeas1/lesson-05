@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  padding: 0;
 }
 
 .body {
@@ -126,7 +125,7 @@
 .third-section {
   background: url(../img/bg-section.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center top;
   padding-top: 67px;
   padding-bottom: 130px;
 }
@@ -147,4 +146,3 @@
   color: #FFFFFF;
   margin-bottom: 36px;
 }
-/*# sourceMappingURL=style.css.map */
